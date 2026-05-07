@@ -38,4 +38,4 @@ I personally struggled to find opportunities as a student.
 I built this to solve that problem for myself and others.
 
 ## Live Demo
-👉 https://yoursite.vercel.ap
+
